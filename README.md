@@ -8,7 +8,7 @@ Este repositorio contiene ejercicios desarrollados en Python como práctica de p
 
 Todo el código se encuentra en **un notebook de Jupyter** para facilitar la explicación y visualización de resultados.
 
-# Ejercicios:
+# Contenido
 ## 1. Práctica Uno: Programa Secuencial - Gestor de notas estudiantiles
 Permite registrar estudiantes y sus calificaciones, en una asignatura X. Sus funcionalidades principales son:
 - Validación de entrada de datos
